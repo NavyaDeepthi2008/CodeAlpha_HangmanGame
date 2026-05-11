@@ -28,6 +28,7 @@ The player has to guess the hidden word one letter at a time within a limited nu
 
 ```bash
 python Hangman_game.py
+```
 
 
 ## Author
