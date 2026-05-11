@@ -45,6 +45,6 @@ while wrong_guesses < max_wrong and "_" in display_word:
 
 # Final Result
 if "_" not in display_word:
-    print("\n🎉 Congratulations! You guessed the word:", word)
+    print("\n Congratulations! You guessed the word:", word)
 else:
-    print("\n😢 You lost! The word was:", word)
+    print("\n You lost! The word was:", word)
